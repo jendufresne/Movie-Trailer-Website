@@ -1,5 +1,5 @@
 # Favorite Movies Website
-This is my code for Udacity "Movie Trailer Website" project. This project is part of the Full Stack Web Developer Nanodegree.
+This is my code for Udacity "Movie Trailer Website" project. This project is part of the Udacity Full Stack Web Developer Nanodegree.
 
 ## Installation
 _This project utilizes **Python**._
