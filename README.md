@@ -3,7 +3,7 @@ This is my code for Udacity "Movie Trailer Website" project. This project is par
 
 ## Installation
 _This project utilizes **Python**._
-Inorder to run the files please make sure that **Python** is installed on your computer. (See https://www.python.org/downloads/)
+In order to run the project files please make sure that **Python** is installed on your computer. (See https://www.python.org/downloads/)
 
 To run the project please run the _"entertainment_center.py"_ file. 
 
