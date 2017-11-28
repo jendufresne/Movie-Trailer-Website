@@ -32,3 +32,4 @@ spirited_away = media.Movie("Spirited Away",
 movies = [lion_king, five_hundred_days_of_summer, ferris_bueller, spirited_away]  # NOQA
 
 fresh_tomatoes.open_movies_page(movies)
+
